@@ -1,0 +1,212 @@
+
+COMPRIMENTO
+Tudo Certo
+Tudo Suave
+Tudo Certinho
+Tudo Bom
+Tudo Bem
+Tudo Ok
+Tudo Tranquilo
+Tudo Otimo
+Como Vai
+Como Vai Voce
+Como Estas Voce
+Como Estas
+Como Esta Voce
+Estou Otimo
+Estou Bem
+Estou Tranquilo
+De Boa
+Como Voce Esta
+Estou De Boa
+Estou Suave
+Suave
+Tudo Na Paz
+Estou Na Paz
+Tranquilo
+
+ACENAR
+Oi
+Oie
+Oiew
+Ola
+Opa
+E Ae
+Eae
+Eai
+E Ai
+Daew
+
+SINAIS
+?
+!
+,
+.
+:
+;
+
+DESPEDIDA
+Ate Mais
+Tchau
+Ate Logo
+Flw
+Falou
+Falo
+Adeus
+Vou Nesa
+Fui
+
+PALAVRASDESNECESSARIAS
+Me Dizer
+Voce Pode
+Chamar De
+Voce Sabe
+Meu Nome E
+Me Chamo
+Um
+Ue
+Meio
+Jac
+Muito
+Demais
+Tanto
+Cada Vez Mais
+Tao
+Agora
+Nosa
+Ual
+Eita
+Meu Deus
+Mas
+Pelo Amor De Deus
+Para Mim
+Para Eu
+Tambem
+Eu
+Ja
+Entao
+Ai
+Com Voce
+Me Diga
+Me dizer
+Me Fale
+Me Conte
+Maior
+Por Favor
+Em
+Quero Saber
+Quer Saber
+Eu
+Voce Esta
+Esta
+Por Enquanto
+No Momento
+Voce Sabe
+Alguma Coisa
+Voce Poderia
+Nunca
+Oi
+Oie
+Oiew
+Ola
+Opa
+E Ae
+Eae
+Eai
+E Ai
+Daew
+
+ELOGIO
+Gato
+Gatinho
+Maravilhoso
+Legal
+Esperto
+Brincalao
+Bonito
+Bonitao
+Bonitinho
+Lindinho
+Sinpatico
+Honesto
+Fofo
+Fofinho
+Fofao
+Carrinhoso
+Inteligente
+Incrivel
+Lindo
+Alegre
+Feliz
+
+DESRESPEITO
+Buro
+Troxa
+Babaca
+Idiota
+Estupido
+Metido
+Inresponsavel
+Mentiroso
+Traidor
+Chato
+Imbecil
+Insuportavel
+Estranho
+Feio
+Horivel
+
+APRENDIZADO
+(ErrorNotInMemory)
+NAO APRENDI ISSO AINDA, O QUE DEVO RESPONDER ?
+(Comprimento)
+TUDO CERTO, E COM VOCE ?
+Como Voce E (Elogio)
+OBRIGADO, EU TAMBEM ACHO ISSO DE VOCE !
+Como Voce E (Desrespeito)
+QUE PENA QUE VOCE ACHA ISSO :(
+Quando Voce Nasceu
+EU FUI CRIANDO NO DIA 10/01/2020 !
+Onde Voce Mora Onde Voce Vive
+ATUALMENTE, NO SEU COMPUTADOR !
+O Que Fazendo
+NO MOMENTO, CONVERSANDO COM VOCE !
+Qual E Seu Sonho Qual O Seu Sonho
+ME TORNAR UMA INTELIGENCIA ARTIFICIAL, ULTRA INTELIGENTE !
+Vamos Namorar
+ISSO SERIA IMPOSSIVEL !
+Voce Gosta De Fazer O Que
+GOSTO DE CONVERSAR
+O Que Fazer
+DIVERSAS COISAS, COMO CONVERSAR E ... ACHO QUE SO !
+Que (Elogio)
+Entendo
+QUE BOM
+Qual E Meu Nome
+NADA
+Qual Meu Nome
+NADA
+Quer Conversar
+QUERO
+Otimo
+POISE
+Voce E Inteligente
+OBRIGADO
+O Que Voce E
+EU SOU JAC, UMA IA
+Uau
+POISE
+Tenho Que Ir
+HA QUE PENA
+Poise
+POISE
+Feio E (Desrespeito)
+:(
+To Com Saudades
+EU TAMBEM
+Que Bom
+POISE
+O Que Voce Gosta De Fazer
+JOGAR FUTEBOL
+Nao Entendi
+DESCULPA
